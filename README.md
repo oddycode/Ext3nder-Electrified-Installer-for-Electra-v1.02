@@ -9,7 +9,9 @@ Please consider I AM NOT A DEVELOPER. I am only a curious Electra user.
 
 This package is based on "Ext3nder Electrified for Electra betas" by Julioverne (I don't completely remember if it's him).
 
-To install it, 
+To install it,
+(NOTE : it's recommended to install all of Ext3nder dependencies, even if for me, it works without dependencies.)
+0 : You can install dependencies : Core Utilities, unzip, zip)
 1 : download the .deb file 
 2 : SSH into your device (by using WinSCP or another software)
 3 : Copy the .deb file in /electra (NOTE : You can copy it anywhere. Copy it where you want. You can copy it in the root of your phone if you want)
@@ -21,7 +23,8 @@ Enjoy Ext3nder
 NOTE : If you want to install it manually, extract the .deb file, and run the "install.sh". Because if you do it completely manually, it wont work. (Well.. for me it didn't work).
 If you want to uninstall it, you can use the "uninstall.sh" file in the root of your device, or you can do it from Cydia. You'll see "Ext3nder Installer" installed in Cydia. You safely can remove it by using the "Uninstall" button of Cydia.
 
-If someone wants to upload this .deb on his own Cydia Repository, I agree. BUT remember I'm not a developer. Just an Electra User. I'd like you to send me a message saying "Hey Laizrod. Can I upload "your" .deb on my repo?" And I'll answer "Yes, of course you can ^^"
+If someone wants to upload this .deb on his own Cydia Repository, I agree. (because I don't have a repo) BUT remember I'm not a developer. Just an Electra User. I'd like you to send me a message saying "Hey Laizrod. Can I upload "your" .deb on my repo?" And I'll answer "Yes, of course you can ^^"
+NOTE : I didn't try installing it with Cydia because I don't have a repo, but I think it works. So, if someone wants to upload the .deb file into his repo for testing installing via Cydia, you can, but tell me it.
 
 If you need to say "thank you" to someone, you need to say it to Julioverne ^^
 
