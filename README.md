@@ -1,4 +1,7 @@
 # Ext3nder-Electrified-Installer-for-Electra-v1.02
+UPDATE : I maybe will delete the link, because (after my Reddit post get deleted, and having a discussion with the developer) i know that this can bootloop your device. (50% of chances of bootlooping). The dev said me that.
+For me, and for a lot of people, it's pretty stable. But I do not recommend installing it.
+You have been warned.
 /! USE AT YOUR OWN RISKS !\
 I TESTED THIS PACKAGE ON 2 DEVICES (iPhone 7) RUNNING IOS 11.0 AND ELECTRA V1.02 AND IT WORKS PERFECTLY. 
 I AM NOT RESPONSABLE OF POTENTIAL DAMAGES OR YOUR UTILISATION OF MY .DEB FILE/EXT3NDER
