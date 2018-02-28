@@ -29,7 +29,7 @@ If you want to uninstall it, you can use the "uninstall.sh" file in the root of 
 If someone wants to upload this .deb on his own Cydia Repository, I agree. (because I don't have a repo) BUT remember I'm not a developer. Just an Electra User. I'd like you to send me a message saying "Hey Laizrod. Can I upload "your" .deb on my repo?" And I'll answer "Yes, of course you can ^^"
 NOTE : I didn't try installing it with Cydia because I don't have a repo, but I think it works. So, if someone wants to upload the .deb file into his repo for testing installing via Cydia, you can, but tell me it.
 
-If you need to say "thank you" to someone, you need to say it to Julioverne ^^
+If you need to say "thank you" to someone, you need to say it to Julioverne and the developer of Electra beta version : midnightchips
 
 
                                                            KNOWN ISSUES:
